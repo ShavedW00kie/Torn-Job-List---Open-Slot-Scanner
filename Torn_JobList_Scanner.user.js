@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Torn Job List - Open Slot Scanner
 // @namespace    torn-joblist-scanner
-// @version      2.3
+// @version      2.4
 // @description  Scans every company on the Job List page and shows which ones have an open employee slot. Includes integrated settings, diagnostics, and PDA support.
 // @author       ShavedW00kie (Torn: ThaWookie [2954173] )
 // @license      MIT
